@@ -3,6 +3,6 @@ Contained in the folder is the main code Sessions_Cullen_SuperPoints.m run that 
 
 Note: i thought about writing another part to this where it identifes good cells in green and bad cells in red, this could be done with the varying radi. it seem as though cells with a radius smaller than 13 pixels is a bad cell most of the time.
 
-![](bloodtacker.gif)
+![](bloodtracker.gif)
 
 link for video of blood cells https://drive.google.com/file/d/11xsRJNS_udJm2xDYqJMtQt9kVoYa9Fgm/view?usp=sharing
